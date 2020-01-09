@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://aza123:aza123@cluster0-nfv6t.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://aza123:aza123@cluster0-nfv6t.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret-json-web-token"
 }
