@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://aza123:aza123@cluster0-nfv6t.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "secret-json-web-token"
+    "jwtSecret": "secret-json-web-token",
+    "githubClientId": "19191469f50eeddd39c1",
+    "githubSecret": "14b168e225d270b3df7f47c888dd513bb7aff108"
 }
